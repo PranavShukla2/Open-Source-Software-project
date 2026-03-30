@@ -191,23 +191,3 @@ Concepts used:
    curl -I http://localhost/nonexistent
 
 6. Capture screenshots of commands and outputs for report evidence.
-
-## How to Keep Submission Original and Viva-Ready
-
-1. Run every command yourself on Fedora 43 and capture your own outputs.
-2. Replace placeholder text with your own reflections, including what failed and what you fixed.
-3. Add your own comparison points in Part D based on your test experience.
-4. Keep terminal screenshots with visible username, timestamp, and command history.
-5. Practice explaining each script logic in your own words before submission.
-
-## Notes for Final Submission
-
-- Fill all placeholders in this README.
-- Include this README in your public GitHub repository.
-- Add screenshots and your observations from your own Linux execution.
-- Convert report/Open_Source_Audit_Report_Draft.md into PDF after personalization.
-
-## Academic Integrity Reminder
-
-Understand every script and be ready to explain it in a short viva.  
-Personalize the report with your own Linux outputs, reflections, and conclusions.
